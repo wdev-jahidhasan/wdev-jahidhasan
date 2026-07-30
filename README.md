@@ -19,20 +19,11 @@
 
 ## 🌐 Connect with me
 
-<table>
-  <tr>
-    <td valign="middle" align="center">
-      <a href="mailto:wdev.jahidhasan@gmail.com">
-        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="32" width="32" />
-      </a>
-    </td>
-    <td valign="middle" align="center">
+<p align="center">
       <a href="https://linkedin.com/in/wdev-jahidhasan" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="32" />
       </a>
-    </td>
-  </tr>
-</table>
+</p>
 
 ## 🛠️ Languages and Tools
 
