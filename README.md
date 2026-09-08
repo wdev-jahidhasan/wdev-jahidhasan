@@ -2,11 +2,11 @@
   <img width="884" height="329" alt="Banner" src="https://github.com/user-attachments/assets/f5286b9b-f270-4eb2-95f9-71c7275c900b" />
 </p>
 
-<p align="center" style="margin-bottom: 0px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&height=30&width=480&lines=✨+Welcome+to+my+GitHub+profile!+✨" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=%E2%9C%A8+Welcome+to+my+GitHub+profile!+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-<h1 align="center" style="margin-top: 0px;">Hi 👋, I'm Md. Jahid Hasan</h1>
+<h1 align="center">Hi 👋, I'm Md. Jahid Hasan</h1>
 <h3 align="center">A MERN stack developer from Bangladesh, working towards becoming an AI-powered and future-ready Developer</h3>
 
 ## 🎯 Current Focus
@@ -20,9 +20,9 @@
 ## 🌐 Connect with me
 
 <p align="left">
-      <a href="https://linkedin.com/in/wdev-jahidhasan" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="32" />
-      </a>
+  <a href="https://linkedin.com/in/wdev-jahidhasan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="32" />
+  </a>
 </p>
 
 ## 🛠️ Languages and Tools
@@ -115,22 +115,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=wdev-jahidhasan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<!-- ## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wdev-jahidhasan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdev-jahidhasan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wdev-jahidhasan&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p> -->
 
 ## 📊 GitHub Analytics & Contributions
 
