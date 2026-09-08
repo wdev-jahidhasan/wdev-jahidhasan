@@ -27,88 +27,28 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/><br>
-    <sub style="color: #a6accd; font-size: 11px;">HTML5</sub>
-  </a>
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/><br>
-    <sub style="color: #a6accd; font-size: 11px;">CSS3</sub>
-  </a>
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="36" height="36"/><br>
-    <sub style="color: #a6accd; font-size: 11px;">Tailwind</sub>
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/><br>
-    <sub style="color: #a6accd; font-size: 11px;">JavaScript</sub>
-  </a>
-  <!-- React -->
-  <a href="https://react.dev/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="36" height="36"/><br>
-    <sub style="color: #a6accd; font-size: 11px;">React</sub>
-  </a>
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="36" height="36" style="background-color: #ffffff; border-radius: 50%; padding: 2px;"/><br>
-    <sub style="color: #a6accd; font-size: 11px;">Next.js</sub>
-  </a>
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36"/><br>
-    <sub style="color: #a6accd; font-size: 11px;">Node.js</sub>
-  </a>
-  <!-- Express -->
-  <a href="https://expressjs.com/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="36" height="36" style="background-color: #ffffff; border-radius: 50%; padding: 2px;"/><br>
-    <sub style="color: #a6accd; font-size: 11px;">Express</sub>
-  </a>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36" height="36"/><br>
-    <sub style="color: #a6accd; font-size: 11px;">MongoDB</sub>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="36" height="36"/><br>
-    <sub style="color: #a6accd; font-size: 11px;">Git</sub>
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
-    <img src="https://api.iconify.design/mdi:github.svg?color=%23ffffff" alt="GitHub" width="36" height="36" style="background-color: #000000; border-radius: 50%; padding: 3px;"/><br>
-    <sub style="color: #a6accd; font-size: 11px;">GitHub</sub>
-  </a>
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="36" height="36"/><br>
-    <sub style="color: #a6accd; font-size: 11px;">Figma</sub>
-  </a>
-  <!-- Stripe -->
-  <a href="https://stripe.com/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
-    <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="36" height="36"/><br>
-    <sub style="color: #a6accd; font-size: 11px;">Stripe</sub>
-  </a>
-  <!-- JWT -->
-  <a href="https://jwt.io/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
-    <img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" alt="JWT" width="36" height="36" style="background-color: #000000; border-radius: 50%; padding: 3px;"/><br>
-    <sub style="color: #a6accd; font-size: 11px;">JWT</sub>
-  </a>
-  <!-- Better Auth -->
-  <a href="https://better-auth.com" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
-    <img src="https://cdn.simpleicons.org/betterauth/ffffff" alt="Better Auth" width="36" height="36" style="background-color: #000000; border-radius: 50%; padding: 3px;"/><br>
-    <sub style="color: #a6accd; font-size: 11px;">Better Auth</sub>
-  </a>
-  <!-- ImgBB -->
-  <a href="https://imgbb.com/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
-    <img src="https://api.iconify.design/mdi:image-multiple.svg?color=%231678F2" alt="ImgBB" width="36" height="36" style="background-color: #ffffff; border-radius: 50%; padding: 3px;"/><br>
-    <sub style="color: #a6accd; font-size: 11px;">ImgBB</sub>
-  </a>
-</p>
+<table align="center">
+<tr>
+<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5"/><br><sub>HTML5</sub></a></td>
+<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3"/><br><sub>CSS3</sub></a></td>
+<td align="center"><a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" height="36" alt="Tailwind CSS"/><br><sub>Tailwind</sub></a></td>
+<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/><br><sub>JavaScript</sub></a></td>
+<td align="center"><a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React"/><br><sub>React</sub></a></td>
+<td align="center"><a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js"/><br><sub>Next.js</sub></a></td>
+<td align="center"><a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/><br><sub>Node.js</sub></a></td>
+<td align="center"><a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" height="36" alt="Express"/><br><sub>Express</sub></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/><br><sub>MongoDB</sub></a></td>
+<td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="Git"/><br><sub>Git</sub></a></td>
+<td align="center"><a href="https://github.com/"><img src="https://api.iconify.design/mdi:github.svg?color=%23ffffff" width="36" height="36" alt="GitHub"/><br><sub>GitHub</sub></a></td>
+<td align="center"><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="36" height="36" alt="Figma"/><br><sub>Figma</sub></a></td>
+<td align="center"><a href="https://stripe.com/"><img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" width="36" height="36" alt="Stripe"/><br><sub>Stripe</sub></a></td>
+<td align="center"><a href="https://jwt.io/"><img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" width="36" height="36" alt="JWT"/><br><sub>JWT</sub></a></td>
+<td align="center"><a href="https://better-auth.com/"><img src="https://cdn.simpleicons.org/betterauth/ffffff" width="36" height="36" alt="Better Auth"/><br><sub>Better Auth</sub></a></td>
+<td align="center"><a href="https://imgbb.com/"><img src="https://api.iconify.design/mdi:image-multiple.svg?color=%231678F2" width="36" height="36" alt="ImgBB"/><br><sub>ImgBB</sub></a></td>
+</tr>
+</table>
 
 ## 🔥 GitHub Streak
 
