@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" style="margin-bottom: 0px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&height=30&width=480&lines=✨+Welcome+to+my+GitHub+profile!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&height=30&width=480&lines=✨+Welcome+to+my+GitHub+profile!+✨" alt="Typing SVG" />
 </p>
 
 <h1 align="center" style="margin-top: 0px;">Hi 👋, I'm Md. Jahid Hasan</h1>
@@ -11,11 +11,11 @@
 
 ## 🎯 Current Focus
 
-- 🌱 Currently learning **Express.js** and **MongoDB**
+- 🌱 Currently learning **TypeScript**
 - 🤖 Exploring **AI Integration**
 - 💻 Building modern Full Stack applications
 - 📚 Improving Backend-related skills
-- 🔮 Plan to learn in the future: **TypeScript**, **PostgreSQL**, and **Python**
+- 🔮 Plan to learn in the future: **PostgreSQL**, and **Python**
 
 ## 🌐 Connect with me
 
@@ -28,37 +28,123 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="background-color: #ffffff; border-radius: 50%; padding: 2px;"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="background-color: #ffffff; border-radius: 50%; padding: 2px;"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/><br>
+    <sub style="color: #a6accd; font-size: 11px;">HTML5</sub>
+  </a>
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/><br>
+    <sub style="color: #a6accd; font-size: 11px;">CSS3</sub>
+  </a>
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="36" height="36"/><br>
+    <sub style="color: #a6accd; font-size: 11px;">Tailwind</sub>
+  </a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/><br>
+    <sub style="color: #a6accd; font-size: 11px;">JavaScript</sub>
+  </a>
+  <!-- React -->
+  <a href="https://react.dev/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="36" height="36"/><br>
+    <sub style="color: #a6accd; font-size: 11px;">React</sub>
+  </a>
+  <!-- Next.js -->
+  <a href="https://nextjs.org/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="36" height="36" style="background-color: #ffffff; border-radius: 50%; padding: 2px;"/><br>
+    <sub style="color: #a6accd; font-size: 11px;">Next.js</sub>
+  </a>
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36"/><br>
+    <sub style="color: #a6accd; font-size: 11px;">Node.js</sub>
+  </a>
+  <!-- Express -->
+  <a href="https://expressjs.com/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="36" height="36" style="background-color: #ffffff; border-radius: 50%; padding: 2px;"/><br>
+    <sub style="color: #a6accd; font-size: 11px;">Express</sub>
+  </a>
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36" height="36"/><br>
+    <sub style="color: #a6accd; font-size: 11px;">MongoDB</sub>
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="36" height="36"/><br>
+    <sub style="color: #a6accd; font-size: 11px;">Git</sub>
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
+    <img src="https://api.iconify.design/mdi:github.svg?color=%23ffffff" alt="GitHub" width="36" height="36" style="background-color: #000000; border-radius: 50%; padding: 3px;"/><br>
+    <sub style="color: #a6accd; font-size: 11px;">GitHub</sub>
+  </a>
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="36" height="36"/><br>
+    <sub style="color: #a6accd; font-size: 11px;">Figma</sub>
+  </a>
+  <!-- Stripe -->
+  <a href="https://stripe.com/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
+    <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="36" height="36"/><br>
+    <sub style="color: #a6accd; font-size: 11px;">Stripe</sub>
+  </a>
+  <!-- JWT -->
+  <a href="https://jwt.io/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
+    <img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" alt="JWT" width="36" height="36" style="background-color: #000000; border-radius: 50%; padding: 3px;"/><br>
+    <sub style="color: #a6accd; font-size: 11px;">JWT</sub>
+  </a>
+  <!-- Better Auth -->
+  <a href="https://better-auth.com" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
+    <img src="https://cdn.simpleicons.org/betterauth/ffffff" alt="Better Auth" width="36" height="36" style="background-color: #000000; border-radius: 50%; padding: 3px;"/><br>
+    <sub style="color: #a6accd; font-size: 11px;">Better Auth</sub>
+  </a>
+  <!-- ImgBB -->
+  <a href="https://imgbb.com/" target="_blank" style="display:inline-block; text-align:center; margin: 5px;">
+    <img src="https://api.iconify.design/mdi:image-multiple.svg?color=%231678F2" alt="ImgBB" width="36" height="36" style="background-color: #ffffff; border-radius: 50%; padding: 3px;"/><br>
+    <sub style="color: #a6accd; font-size: 11px;">ImgBB</sub>
+  </a>
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-sigma.vercel.app/?user=wdev-jahidhasan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=wdev-jahidhasan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wdev-jahidhasan&show_icons=true&theme=tokyonight&hide_border=true" width="495" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wdev-jahidhasan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wdev-jahidhasan&layout=compact&theme=tokyonight&hide_border=true" width="495" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdev-jahidhasan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wdev-jahidhasan&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wdev-jahidhasan&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p> -->
+
+## 📊 GitHub Analytics & Contributions
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wdev-jahidhasan&theme=tokyonight" alt="Profile Details" />
 </p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wdev-jahidhasan&theme=tokyonight" alt="GitHub Stats Card" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wdev-jahidhasan&theme=tokyonight" alt="Repos Per Language" />
+    </td>
+  </tr>
+</table>
